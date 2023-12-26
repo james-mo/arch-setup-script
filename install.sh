@@ -50,7 +50,7 @@ git clone https://github.com/vinceliuice/WhiteSur-wallpapers.git
 
 WhiteSur-wallpapers/install-wallpapers.sh
 
-gsettings org.gnome.desktop.background picture-uri ~/.local/share/backgrounds/Ventura-dark.jpg
+gsettings set org.gnome.desktop.background picture-uri ~/.local/share/backgrounds/Ventura-dark.jpg
 
 sudo pacman -Syu zsh
 sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
