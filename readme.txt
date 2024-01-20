@@ -1,3 +1,7 @@
+This is my personal arch linux setup script which I use to initialize some things I like on a fresh installation.
+
+It assumes GNOME is installed.
+
 Usage:
 
 Download and unzip in home directory (~), then:
