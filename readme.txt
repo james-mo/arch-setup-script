@@ -1,9 +1,5 @@
 Usage:
 
-cd
+Download and unzip in home directory (~), then:
+
 ./install.sh
-
-or
-
-cd
-sudo ./install.sh
